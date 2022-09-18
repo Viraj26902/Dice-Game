@@ -1,0 +1,36 @@
+body{
+    background-color: #1A3C40;
+}
+.container{
+    margin: auto;
+    text-align: center;
+}
+.dice
+{
+    text-align: center;
+    display: inline-block;
+}
+footer{
+    margin: auto;
+    position: absolute;
+    bottom: 0%;
+    left: 45%;
+    text-align: center;
+    font-family: cursive;
+    color:royalblue;
+    font-size: 20px;
+}
+h1{
+    font-family: lobster,cursive;
+    font-size: 100px;
+    text-shadow: 2px;
+    color: #EDE6DB;
+}
+.in{
+    color: #EDE6DB;
+    font-family: cursive;
+    font-size: 40px;
+}
+img{
+    width: 85%;
+}
